@@ -62,7 +62,7 @@ This database has the star schema by design which includes
     - stagging_imdb_movies_rating_data
     
 
-![DB Schema](Capston_project.jpg)
+![DB Schema](https://github.com/haseebahmad95/Capston-Project/blob/master/Capston_Project.jpg)
 
 # Install the dependencies
 ``` bash

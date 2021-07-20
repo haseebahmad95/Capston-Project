@@ -1,6 +1,6 @@
 
 # Introduction 
-This Udacity Capstone Project is for the comprehensive hands on experience of the concepts which was learnt in this Nano degree program which includes data modeling, creating a dataware house etc. 
+This Capstone Project is for the comprehensive hands on experience of the concepts which includes data modeling, creating a dataware house etc. 
 
 In this project two data sources are used (netflix movies data, imdb movies data). The primary purpose of this analysis is answer the below questions
 
